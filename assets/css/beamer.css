@@ -1,0 +1,142 @@
+@charset "utf-8";
+	.coding_beams
+{
+	background-image : url(/assets/images/coding_beams.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 331px;
+	top : 331px;
+}
+.about:hover .image
+{
+	background-image : url(/assets/images/about_beams.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : -11px;
+	top : 101px;
+}
+.contact_beam
+{
+	background : #9FEDFF;
+	background : rgba(159, 237, 255, 1);
+	opacity : 0.54;
+	position : absolute ;
+	left : 997px;
+	top : 21px;
+	filter: alpha(opacity=54) progid:DXImageTransform.Microsoft.Alpha(opacity=54) ;
+}
+.design_beams
+{
+	background-image : url(/assets/images/design_beams.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1297px;
+	top : 410px;
+}
+.art_rings
+{
+	background-image : url(/assets/images/art_rings.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 680px;
+	top : 364px;
+}
+.image
+{
+	background-image : url(/assets/images/image.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 3250px;
+	top : 1919px;
+}
+.coding
+{
+	background-image : url(/assets/images/coding.png);
+	background-repeat : no-repeat;
+	position : re ;
+	left : 1480px;
+	top : 2050px;
+}
+.image2
+{
+	
+	background-image : url(/assets/images/image2.png);
+	background-repeat : no-repeat;
+	position : relative ;
+	left : 225px;
+	top : 1820px;
+}
+.design
+{
+	background-image : url(/assets/images/design.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1459px;
+	top : 607px;
+}
+.image1
+{
+	background-image : url(/assets/images/image1.png);
+	background-repeat : no-repeat;
+	background-size: 100%;
+	position : absolute ;
+	left : 4010px;
+	top : 400px;
+}
+
+.nightCity
+{
+	background-image : url(../images/city1260.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	position : absolute ;
+}
+
+.NormalCharacterStyle
+{
+  font-family : LoRes 9 OT;
+  font-weight : bold;
+  font-size : 50px;
+  color : #FFFF00;
+  color : rgb(255, 255, 0);
+}
+
+.sty
+{
+	background-image: url(../images/nightsky-01.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position : absolute ;
+}
+
+.bittext {
+
+	font-family: lores-15-narrow,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 28px;
+
+}
+
+.boldbittext {
+	font-family: lores-15, sans-serif;
+
+	font-weight: 700;
+
+	font-style: normal;
+
+}
+
+
+.backgroundWeb
+{
+	background-image: url(../images/nightcity-01.png);
+	background-repeat: no-repeat;
+	margin: auto;
+	display: block;
+	width: auto;
+	height: auto;
+	object-fit: cover;
+
+	
+}
