@@ -115,6 +115,9 @@
 	font-weight: 400;
 	font-style: normal;
 	font-size: 28px;
+	opacity: 1;
+	color: antiquewhite;
+
 
 }
 
@@ -124,6 +127,9 @@
 	font-weight: 700;
 
 	font-style: normal;
+
+	color: antiquewhite;
+
 
 }
 
@@ -140,5 +146,86 @@
 	
 	
 
+.contained {
+	width: 50%;	
+	margin: auto;
+	margin-top: 75px;
+
+
+	
 	
 }
+
+.formie {
+	width: 70%;
+	margin: auto;
+	
+
+}
+   
+   
+input[type=text], select, textarea {
+	   width: 100%;
+	   border: 1px solid #ccc;
+	   border-radius: 4px;
+	   box-sizing: border-box;
+	   resize: vertical;
+	   color: black;
+   
+}
+   
+input[type=submit] {
+	   background: #4caf50;
+	   color: white;
+	   border: none;
+	   border-radius: 4px;
+	   cursor: pointer;
+	   
+}
+   
+input[type=submit]:hover {
+	   background: #45a049
+}
+   
+   
+   
+.footer {
+	   position: fixed;
+	   height: 20px;
+	   left: 0;
+	   bottom: 0;
+	   width: 100%;
+	   background-color:#666666;
+	   color: white;
+	   text-align: center;
+	   font-family: Arial, Helvetica, sans-serif
+}
+
+.footext {
+	font-family: lores-9-minus-wide, sans-serif;
+
+	font-weight: 400;
+
+	font-style: normal;
+
+	font-size: 12px;
+}
+
+.boxer {
+	color: darkgoldenrod;
+}
+
+.sample {
+	margin:auto;
+	max-height: 100%;
+	max-width: 100%;
+	
+	
+}
+
+.bogged {
+	width: 80%;
+	margin-top: 75px;
+	margin-left: auto;
+	margin-right: auto;
+} 
