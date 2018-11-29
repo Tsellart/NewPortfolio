@@ -131,12 +131,14 @@
 .backgroundWeb
 {
 	background-image: url(../images/nightcity-01.png);
-	background-repeat: no-repeat;
-	margin: auto;
-	display: block;
-	width: auto;
-	height: auto;
-	object-fit: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+	
+	
 
 	
 }
