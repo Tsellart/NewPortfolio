@@ -34,7 +34,7 @@
 }
 
 
-.backgroundWeb
+html
 {
 	background: url(../images/cityWeb.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
